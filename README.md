@@ -11,4 +11,6 @@ Multiple examples for Ising model and Metropolis algorithm
 
 Complete the exercise for make plots of M,E,C in the 2d lattice using simulated annealing. <br>
 
+This shouldn't be noticeable, but I wasn't able to connect to Rivanna, so I did this assignment in my local build of ROOT then uploaded my script and pdf to my github. I don't think that will affect anything on your end for grading, but if something goes wrong, that's what happened. 
 
+ising.cpp - I like ROOT executable scripts, so instead of modifying ising2d_vs_T.cpp, this script does the plots for ising.pdf. It runs with .x ising.cpp in ROOT
